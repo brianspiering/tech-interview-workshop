@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Create environment:
 conda env create --force
 
